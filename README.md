@@ -29,7 +29,7 @@ The data is in CSV and we need to transform it using the script `csv_to_numpy.py
 $ python3 csv_to_numpy.py
 ```
 
-By default this is using AlexNet architectures, but in the paper we propose different ones.
+By default this is using AlexNet architectures, but in the paper we proposed different ones.
 
 ## Usage
 
